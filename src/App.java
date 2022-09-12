@@ -14,7 +14,7 @@ public class App {
         // b
         // panggil function yang bernama luasVolumeKubus
         luasVolumeKubus(sisi);
-        scan.close();
+        scan.close(); // abaikan
     }
 
     // bagian dari b
